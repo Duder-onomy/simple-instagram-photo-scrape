@@ -1,0 +1,16 @@
+{
+  "name": "simple-instagram-photo-scrape",
+  "version": "1.0.0",
+  "description": "Lets you scrape top Instagram photos by hashtag. It works decently. Use at your own risk or fork it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memoize-clear": "^0.1.1",
+    "request-promise": "^2.0.1"
+  },
+  "devDependencies": {}
+}
