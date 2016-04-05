@@ -1,6 +1,6 @@
 {
   "name": "simple-instagram-photo-scrape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lets you scrape top Instagram photos by hashtag. It works decently. Use at your own risk or fork it.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,12 @@
     "memoize-clear": "^0.1.1",
     "request-promise": "^2.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Duder-onomy/simple-instagram-photo-scrape"
+  },
+  "bugs": {
+    "url": "https://github.com/Duder-onomy/simple-instagram-photo-scrape/issues"
+  }
 }
